@@ -34,6 +34,7 @@ The **Book Review Platform** is a web application that allows users to browse a 
    python manage.py createsuperuser
 6. Run the development server:
    python manage.py runserver
+
 Usage
 Admin: Add, edit, and delete books from the catalog and moderate user reviews.
 User: Browse the book catalog, submit reviews, and rate books after logging in.
